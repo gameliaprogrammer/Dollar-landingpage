@@ -13,7 +13,7 @@ const navLinks = [
   },
 
   {
-    display: "Pages",
+    display: "A"bout us,
     url: "#",
   },
   {
