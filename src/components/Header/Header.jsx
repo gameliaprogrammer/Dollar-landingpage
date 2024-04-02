@@ -8,7 +8,7 @@ const navLinks = [
     url: "#",
   },
   {
-    display: "About",
+    display: "Team",
     url: "#",
   },
 
